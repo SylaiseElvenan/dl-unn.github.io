@@ -34,6 +34,7 @@
 | Kamelina Julia                                                     | ?              | 3  | Cosine   | HOG                                |
 | Shkenev Petr                                                       | ?              | 5  | L2       | HOG                                |
 | Trifonov ALexander                                                 | ?              | ?  | L2       | ?                                  |
+| Kulikova Svetlana                                                  | 0.963          | 3  | L2       | HOG                                |
 
 # Not accepted results of Task 1
 
